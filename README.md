@@ -1,8 +1,8 @@
 # **Ex. No: 8 – Reproducing an Image Using Prompts for Image Generation**
 
-**Date:**  31-10-2025
+**Date:**  -10-2025
 
-**Register No:**  212223060206
+**Register No:**  212223060207
 
 ---
 
